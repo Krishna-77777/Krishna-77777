@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Hi there! I'm Krishna Pradhan<br>🌱 3D animation, Cloud Deployment (AWS) and web designing<br>💬 I'm  a passionate Full Stack Web Developer who loves to build an interactive and scalable web applications that solve real-world problems, from designing clean UIs to developing robust backend systems.<br> 
+🔭Hi there! I'm Krishna Pradhan.<br>🌱 3D animation, Cloud Deployment (AWS) and Web Designing.<br>💬 I'm  a passionate Full Stack Web Developer who loves to build an interactive and scalable web applications that solve real-world problems, from designing clean UIs to developing robust backend systems.<br> 
 
 
 ## 🌐 Socials:
